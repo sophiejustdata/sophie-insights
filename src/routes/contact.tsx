@@ -47,7 +47,7 @@ function Contact() {
             width={1200}
             height={1504}
             loading="lazy"
-            alt="Sophie by a window, notebook in hand"
+            alt="Open notebook and ceramic cup on a linen table by a window"
             className="w-full object-cover"
           />
         </div>

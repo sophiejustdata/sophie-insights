@@ -72,7 +72,7 @@ function About() {
             width={1408}
             height={1008}
             loading="lazy"
-            alt="Sophie talking with colleagues around a table"
+            alt="Wooden table with notebooks, pencils and mugs"
             className="w-full object-cover"
           />
         </div>
