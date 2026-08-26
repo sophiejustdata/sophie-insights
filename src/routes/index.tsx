@@ -89,7 +89,7 @@ function Index() {
               src={sophieWindow}
               width={1200}
               height={1504}
-              alt="Sophie sitting by a window with a notebook, looking out"
+              alt="Open notebook and ceramic cup on a linen table by a window"
               className="w-full object-cover md:mt-8"
             />
             <p className="mt-3 text-xs text-muted-foreground">
@@ -186,7 +186,7 @@ function Index() {
               width={1408}
               height={1008}
               loading="lazy"
-              alt="Sophie in conversation with colleagues around a wooden table"
+              alt="Wooden table with notebooks, pencils and mugs"
               className="w-full object-cover"
             />
           </div>
